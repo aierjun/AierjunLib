@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="TitleText" format="string|reference"/>
+    <attr name="TitleTextColor" format="color|reference"/>
+    <attr name="TitleTextSize" format="dimension|reference"/>
+    <attr name="iconWidth" format="float|dimension|reference"/>
+    <attr name="iconHeight" format="float|dimension|reference"/>
+
+    <declare-styleable name="TestTitleView">
+        <attr name="TitleText"/>
+        <attr name="TitleTextColor"/>
+        <attr name="TitleTextSize"/>
+    </declare-styleable>
+
+    <declare-styleable name="MysView">
+        <attr name="iconWidth"/>
+        <attr name="iconHeight"/>
+    </declare-styleable>
+
+    <declare-styleable name="MultipleTextViewGroup">
+        <attr name="TextColor" format="color" />
+        <attr name="TextSize" format="dimension" />
+        <attr name="textWordMargin" format="dimension" />
+        <attr name="textLineMargin" format="dimension" />
+        <attr name="textBackground" format="reference" />
+
+        <attr name="textPaddingLeft" format="dimension" />
+        <attr name="textPaddingRight" format="dimension" />
+        <attr name="textPaddingTop" format="dimension" />
+        <attr name="textPaddingBottom" format="dimension" />
+
+        <attr name="overspread" format="boolean" />
+        <attr name="columnNum" format="integer" />
+    </declare-styleable>
+</resources>
