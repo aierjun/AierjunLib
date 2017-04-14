@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#44838383</color>
+    <color name="line">#eeeeee</color>
+    <color name="half_translution">#e0000000</color>
+    <color name="seven_translution">#B3000000</color>
+    <color name="three_translution">#22000000</color>
+    <color name="four_translution">#66000000</color>
+    <color name="default_tab_background_pressed">#6633B5E5</color>
+</resources>
